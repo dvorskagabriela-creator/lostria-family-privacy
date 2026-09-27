@@ -1,7 +1,7 @@
 # Privacy Policy — Lostria Family
 
 **Effective date:** 2026-07-03
-**Last updated:** 2026-07-03
+**Last updated:** 2026-09-27
 
 ## Who we are
 
@@ -97,6 +97,16 @@ confirm. This immediately and permanently deletes the family, all tasks and
 history, and the stored notification tokens, and disconnects all members (their
 data is unlinked from the family).
 
+**What stays and for how long:**
+- Deleting the family removes the family record, all tasks, the history and the
+  notification tokens **immediately and permanently**. We keep no copies of them.
+- Your personal profile (name, email address, profile photo) **stays** after the
+  family is deleted, so that you can sign in again or join another family. It is
+  removed only when you ask us to delete it, within 30 days of your request.
+- Server logs may contain your account identifier for up to 30 days; after that
+  Google deletes them automatically. We do not use them for anything else.
+- We keep no backups of our own and no analytics copies of your data.
+
 **Delete your account by request:**
 Because your data is stored on our cloud backend, uninstalling the app does
 **not** delete it from the server. To also delete your personal profile (name,
@@ -126,7 +136,7 @@ Email: lostria.apps@gmail.com
 # Zásady ochrany osobních údajů — Lostria Family
 
 **Datum účinnosti:** 3. 7. 2026
-**Aktualizováno:** 3. 7. 2026
+**Aktualizováno:** 27. 9. 2026
 
 ## Kdo jsme
 
@@ -205,7 +215,7 @@ Rodiče odpovídají za dohled nad používáním aplikace dětmi. Pokud jste ro
 a přejete si smazat data svého dítěte, kontaktujte nás na e-mailu níže a data
 odstraníme (viz „Smazání dat").
 
-## Uchování a smazání dat {#data-deletion}
+## Uchování a smazání dat {#mazani-dat}
 
 Data uchováváme jen po dobu, kdy vaše rodina aplikaci používá.
 
@@ -219,6 +229,16 @@ v aplikaci: menu vpravo nahoře (⋮) → **„Smazat rodinu"** a potvrdit. Tím
 okamžitě a nenávratně smaže rodina, všechny úkoly i historie a uložené tokeny
 pro notifikace, a všichni členové budou odpojeni (jejich data se od rodiny
 odpojí).
+
+**Co naopak zůstává a jak dlouho:**
+- Smazáním rodiny zmizí záznam rodiny, všechny úkoly, historie i tokeny pro
+  notifikace — **okamžitě a nenávratně**. Žádné kopie si neponecháváme.
+- Váš osobní profil (jméno, e-mailová adresa, profilová fotka) po smazání rodiny
+  **zůstává**, abyste se mohli znovu přihlásit nebo se připojit k jiné rodině.
+  Smažeme ho až na vaši žádost, a to do 30 dnů od jejího doručení.
+- Serverové záznamy (logy) mohou obsahovat identifikátor vašeho účtu nejvýše
+  30 dnů; poté je Google automaticky smaže. K ničemu jinému je nepoužíváme.
+- Neuchováváme žádné vlastní zálohy ani analytické kopie vašich dat.
 
 **Smazání účtu na žádost:**
 Protože jsou data uložena v cloudu, odinstalace aplikace je ze serveru
